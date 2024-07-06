@@ -1,0 +1,132 @@
+{ 
+  "articles": [
+    {
+      "id": "3e38",
+      "titre": "repas 2",
+      "prix": "22",
+      "categorie": "Snacks",
+      "description": "Couscous benin",
+      "image": "https://res.cloudinary.com/dhtqzlo9k/image/upload/v1719686683/lzxkfovyoesyfntowl3i.jpg"
+    },
+    {
+      "id": "f3eb",
+      "titre": "repas 1",
+      "prix": "222",
+      "categorie": "Dinner",
+      "description": "sandwich viande ",
+      "image": "https://res.cloudinary.com/dhtqzlo9k/image/upload/v1719686704/yrmoezfezcwzic9qxekq.jpg"
+    },
+    {
+      "id": "f4e8",
+      "titre": "Repas 5",
+      "prix": "300",
+      "categorie": "Dinner",
+      "description": "pasta italian",
+      "image": "https://res.cloudinary.com/dhtqzlo9k/image/upload/v1719827734/ymowwjjxpnpdboeinmeo.jpg"
+    },
+    {
+      "id": "8134",
+      "titre": "repas 6 up",
+      "prix": "22",
+      "categorie": "Lunch",
+      "description": "REPAS MANGE",
+      "image": "https://res.cloudinary.com/dhtqzlo9k/image/upload/v1720038636/wpoeqarretdz0a5kmttf.jpg"
+    },
+    {
+      "id": "53ee",
+      "titre": "repas new",
+      "prix": "33",
+      "categorie": "Dinner",
+      "description": "PIZZA THON",
+      "image": "https://res.cloudinary.com/dhtqzlo9k/image/upload/v1720039108/dvhjndusormpn0j4rid4.jpg"
+    },
+    {
+      "id": "a795",
+      "titre": "AA",
+      "prix": "22",
+      "categorie": "Breakfast",
+      "description": "éé",
+      "image": "https://res.cloudinary.com/dhtqzlo9k/image/upload/v1720119462/vivi0aq8f3s8gt3ucdou.jpg"
+    },
+    {
+      "id": "db74",
+      "titre": "ff",
+      "prix": "22",
+      "categorie": "Breakfast",
+      "description": "ZZZ",
+      "image": "https://res.cloudinary.com/dhtqzlo9k/image/upload/v1720119475/tpylzr24skacxv2gef2d.jpg"
+    },
+    {
+      "id": "b6f6",
+      "titre": "RE",
+      "prix": "22",
+      "categorie": "Lunch",
+      "description": "DFSF",
+      "image": "https://res.cloudinary.com/dhtqzlo9k/image/upload/v1720119516/n7t1cqnwx5sqcdeycjp0.jpg"
+    },
+    {
+      "id": "4b5a",
+      "titre": "DSF",
+      "prix": "2",
+      "categorie": "Breakfast",
+      "description": "DS",
+      "image": "https://res.cloudinary.com/dhtqzlo9k/image/upload/v1720119529/l8dxlaebmwndumwgcv99.jpg"
+    },
+    {
+      "id": "4dec",
+      "titre": "HAMZA",
+      "prix": "2",
+      "categorie": "Snacks",
+      "description": "FDSFF",
+      "image": "https://res.cloudinary.com/dhtqzlo9k/image/upload/v1720119554/olki7xfqzukwld3p2ldk.jpg"
+    },
+    {
+      "id": "e3a2",
+      "titre": "FSSF",
+      "prix": "2",
+      "categorie": "Lunch",
+      "description": "DFS",
+      "image": "https://res.cloudinary.com/dhtqzlo9k/image/upload/v1720119569/bspoxqvnaeu77fajdrer.jpg"
+    },
+    {
+      "id": "c556",
+      "titre": "FD",
+      "prix": "2",
+      "categorie": "Dinner",
+      "description": "SF",
+      "image": "https://res.cloudinary.com/dhtqzlo9k/image/upload/v1720119592/emd12ne055foewrmpurr.jpg"
+    },
+    {
+      "id": "304a",
+      "titre": "DSFFSD",
+      "prix": "2",
+      "categorie": "Lunch",
+      "description": "FSDFD",
+      "image": "https://res.cloudinary.com/dhtqzlo9k/image/upload/v1720119630/lknpm8mcapuiyt7eokgd.jpg"
+    },
+    {
+      "id": "fab3",
+      "titre": "FDSF",
+      "prix": "2",
+      "categorie": "Breakfast",
+      "description": "FSDSF",
+      "image": "https://res.cloudinary.com/dhtqzlo9k/image/upload/v1720119644/gbonxrjp8xvfabllmuqp.jpg"
+    },
+    {
+      "id": "de91",
+      "titre": "KOKO",
+      "prix": "21",
+      "categorie": "Dinner",
+      "description": "KJKJLJLJLJLJJ",
+      "image": "https://res.cloudinary.com/dhtqzlo9k/image/upload/v1720119658/too6xlzohm8ba5wkdzeu.jpg"
+    },
+    {
+      "id": "ceb3",
+      "titre": "EFDSF",
+      "prix": "223",
+      "categorie": "Lunch",
+      "description": "FSD",
+      "image": "https://res.cloudinary.com/dhtqzlo9k/image/upload/v1720119677/weps1drze9u9ij9lauhq.jpg"
+    }
+  ]
+}
